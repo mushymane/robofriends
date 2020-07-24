@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Custom';
+	font-style: normal;
+	font-weight: normal;
+	src: url('TfontsNew-8WWz.ttf');
+}
+
+h1 {
+	font-family: 'Custom';
+	font-weight: 200;
+	color: pink;
+}
